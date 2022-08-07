@@ -1,0 +1,62 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+::-webkit-input-placeholder{
+    font-weight: 300;
+}
+::placeholder{
+    font-weight: 300;
+}
+
+
+
+.card-body h2,.card-body h3,.card-body span,footer p{
+    font-weight: 300;
+
+}
+
+.card-body h3,.card-body span,footer p {
+    color:#707070;
+
+}
+
+footer p{
+    font-size: 1rem;
+
+}
+
+
+
+.card-body h2{
+    
+    color:#212529;
+    font-size: 1.25em;
+
+}
+
+.card-body h3{
+    
+    
+    font-size: 1em;
+
+}
+
+.card-body span{
+  
+
+    font-size: 0.8em;
+
+}
+
+h4{
+
+    font-weight: 500;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    
+
+}
